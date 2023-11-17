@@ -1,22 +1,13 @@
 ---
 layout: post
+title: "Brahim al Madrid"
+author: "Hugo"
+categories: alumno
+image: belli.jepg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# Oficial: Brahim regresa al MadridOficial: Brahim regresa al Madrid
 
-Jekyll also offers powerful support for code snippets:
+Brahim vuelve al Real Madrid. El club blanco ha anunciado en un comunicado oficial emitido a mediodía de este sábado el regreso del delantero malagueño. El jugador, de 23 años, ha pasado las últimas tres temporadas cedido en el Milan. Tiene contrato con el Real Madrid hasta junio de 2027.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+El club blanco presentará de nuevo a Brahim en un acto en la Ciudad Real Madrid este próximo martes, 13 de junio, a las 12:00 del mediodía. A continuación, habrá una rueda de prensa en la que el jugador atenderá a los medios de comunicación. Antes, el lunes, será el turno para Fran García.
